@@ -1,4 +1,4 @@
-import PanaTrainer from './PanaTrainer.jsx'
+import PanaTrainer from './PanaTrainer'
 export default function App() {
   return <PanaTrainer />
 }

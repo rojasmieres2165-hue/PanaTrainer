@@ -1,4 +1,6 @@
-import PanaTrainer from './PanaTrainer'
+import { useState } from 'react'
+
 export default function App() {
-  return <PanaTrainer />
+  return <div>PanaTrainer cargando...</div>
 }
+
